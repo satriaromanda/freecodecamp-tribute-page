@@ -60,7 +60,7 @@ img {
 }
 
 #img-div p {
-  diplay: flex;
+  display: flex;
   width: 50%;
   margin: 0 auto;
 
